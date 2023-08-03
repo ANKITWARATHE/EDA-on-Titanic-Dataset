@@ -19,10 +19,15 @@ The RMS Titanic was a British passenger liner that sank in the North Atlantic Oc
 The dataset consists of the information about people boarding the famous RMS Titanic. Various variables present in the dataset includes data of age, sex, fare, ticket etc. The dataset comprises of 891 observations of 12 columns. Below is a table showing names of all the columns and their description.
 
 PassengerId	: Passenger Identity
+
 Survived : Survival (0 = No; 1 = Yes)
+
 Pclass :	Passenger Class (1 = 1st; 2 = 2nd; 3 = 3rd)
+
 Name : Name of passenger
+
 Sex :	Sex of passenger
+
 Age :	Age of passenger
 SibSp	: Number of sibling and/or spouse travelling with passenger
 Parch :	Number of parent and/or children travelling with passenger
