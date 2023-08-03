@@ -29,11 +29,17 @@ Name : Name of passenger
 Sex :	Sex of passenger
 
 Age :	Age of passenger
+
 SibSp	: Number of sibling and/or spouse travelling with passenger
+
 Parch :	Number of parent and/or children travelling with passenger
+
 Ticket :	Ticket number
+
 Fare : Price of ticket
+
 Cabin	: Cabin number
+
 Embarkment :	Port of Embarkation (C = Cherbourg; Q = Queenstown; S = Southampton)
 
 ### Dependencies
