@@ -33,6 +33,6 @@ Embarkment :	Port of Embarkation (C = Cherbourg; Q = Queenstown; S = Southampton
 
 ### Dependencies
 [numpy](https://numpy.org/)
-pandas
-seaborn
-matplotlib
+[pandas](https://pandas.pydata.org/)https://pandas.pydata.org/
+[seaborn](https://seaborn.pydata.org/)https://seaborn.pydata.org/
+[matplotlib](https://matplotlib.org/)https://matplotlib.org/
