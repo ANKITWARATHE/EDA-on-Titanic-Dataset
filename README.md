@@ -1,4 +1,4 @@
-# Titanic-Project
+# EDA-on-Titanic-Datasetect
 Exploratory data analysis (EDA) on the Titanic Dataset
 
 ### Objective
